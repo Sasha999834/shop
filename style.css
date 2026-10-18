@@ -1,0 +1,79 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    border: 5px solid blue;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.button_header {
+    color: white;
+    background-color: blue;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+main h1 {
+    text-align: center;
+    border: 5px solid blue;
+    border-radius: 10px;
+    color: green;
+}
+
+footer p {
+    background-color: greenyellow;
+    border: 5px solid blue;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.button_main {
+    color: white;
+    background-color: blue;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: 700;
+    margin: 5px;
+}
+
+.button_main2 {
+    color: white;
+    background-color: blue;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.button_main3 {
+    color: white;
+    background-color: blue;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.products {
+    border: 5px solid blue;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: rgb(221, 97, 43);
+    color: white;
+}
+
+.text1 {
+    text-align: center;
+    border: 5px solid blue;
+    border-radius: 10px;
+    color: green;
+}
