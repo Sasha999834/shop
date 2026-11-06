@@ -33,6 +33,7 @@ footer p {
 }
 
 .button_main {
+    display: inline-block;
     color: white;
     background-color: blue;
     text-decoration: none;
